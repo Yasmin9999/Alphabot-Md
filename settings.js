@@ -19,10 +19,10 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "DanzBot-MD😈" //namabot kalian
-global.ownername= "Danz Kontol" //nama kalian
-global.myweb ="https://DanzGantevk75.github.io/" //bebas asal jan hapus
+global.ownername= "Danzz" //nama kalian
+global.myweb ="https://github.com/DanzGantevk75" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ" //bebas asal jan hapus
-global.github = "https://DanzGantevk75.github.io/" //bebas
+global.github = "https://github.com/DanzGantevk75" //bebas
 global.email = "witmawati4@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6288270863279" // nomor wa kalian
