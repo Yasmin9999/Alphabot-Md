@@ -18,15 +18,15 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "DanzBot-MD😈" //namabot kalian
-global.ownername= "Danzz" //nama kalian
+global.botname = "Bot rian" //namabot kalian
+global.ownername= "Rian" //nama kalian
 global.myweb ="https://github.com/DanzGantevk75" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ" //bebas asal jan hapus
 global.github = "https://github.com/DanzGantevk75" //bebas
 global.email = "witmawati4@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6288270863279" // nomor wa kalian
-global.ownernomerr = "6288270863279" //nmr wa kalian
+global.ownernomer = "6281336093801" // nomor wa kalian
+global.ownernomerr = "6281336093801" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
